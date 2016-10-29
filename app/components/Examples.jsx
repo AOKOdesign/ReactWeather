@@ -5,8 +5,8 @@ var Examples = (props) => {
   return (
     <div className="container">
       <div className="well">
-        <h3>Examples Component!!</h3>
-        <p>Here are some examples!!!</p>
+        <h3>Examples Component!</h3>
+        <p>Here are some examples!</p>
       </div>
     </div>
   )
