@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
   return (
     <div className="container">
-      <h1 className="text-center">About</h1>
+      <h1 className="text-center page-title">About</h1>
       <div className="callout primary">
         <h5>Whoa, you've found the about page!</h5>
         <p>This is a simple ReactJS weather fetching application utilizing the OpenWeatherMap API.</p>
